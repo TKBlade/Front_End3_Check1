@@ -2,7 +2,7 @@
 
 
 ### 🏠 Descrição
-Aplicatio To Do para gestão de tarefas e controle, utilizando react
+Aplicatio To Do para gestão de tarefas, utilizando react e exclusivamente front-end, com funções de cadastro, edição e exclusão de tarefas
 
 
 ## Install
@@ -18,6 +18,5 @@ npm run dev
 ```
 
 ## Author
-<% if (authorName) { %>
 👤 **Thiago Cavalcante**
 
